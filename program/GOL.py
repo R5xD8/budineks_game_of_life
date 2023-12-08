@@ -32,8 +32,8 @@ def step_jit(board:nb.types.Array, next_board:nb.types.Array):
 class almost():
 
     def __init__(self,
-                 number_of_colums = 100,
-                 number_of_rows = 100
+                 number_of_colums = 4000,
+                 number_of_rows = 4000
                  ):
         
         # create board w/ Halo
